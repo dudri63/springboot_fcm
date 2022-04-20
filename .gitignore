@@ -34,7 +34,7 @@ out/
 /.nb-gradle/
 
 ### FCM ###
-/resources/firebase/
+firebase_service_key.json
 
 ### VS Code ###
 .vscode/
